@@ -22,7 +22,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{39b395fc-aeb0-429b-8415-7c4675c35684}</ProjectGuid>
+    <ProjectGuid>{02fb0267-a7c7-4d06-841d-4e31063a0176}</ProjectGuid>
     <RootNamespace>ServerTextbook</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
